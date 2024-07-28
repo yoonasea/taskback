@@ -1,26 +1,26 @@
 [
   {
-    "id": "1722147301733",
-    "title": "edit",
-    "description": "edit function",
+    "id": "1722152879563",
+    "title": "Add Task",
+    "description": "Click add task button",
     "completed": false
   },
   {
-    "id": "1722147328023",
-    "title": "deploy",
-    "description": "to firebase",
+    "id": "1722152895542",
+    "title": "Edit Task",
+    "description": "Click edit button",
     "completed": false
   },
   {
-    "id": "1722147351153",
-    "title": "Readme",
-    "description": "Write instructions",
+    "id": "1722152919439",
+    "title": "Complete task",
+    "description": "Click on checkbox",
     "completed": false
   },
   {
-    "id": "1722148211214",
-    "title": "delete",
-    "description": "confirm dialog",
+    "id": "1722152942910",
+    "title": "Delete Task",
+    "description": "Click on delete button",
     "completed": false
   }
 ]
